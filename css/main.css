@@ -236,7 +236,7 @@ ul {
 
 .testimonial-quotes {
   position: relative;
-  left: -18px;
+  left: 0px;
   top: -43px;
   z-index: -1;
   margin: -1.5em;
